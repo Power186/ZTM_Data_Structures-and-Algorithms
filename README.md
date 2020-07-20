@@ -1,5 +1,3 @@
-# ZTM_Data_Structures-and-Algorithms
-
 # Implementation of Data Structures and Algorithms in Kotlin
 ## Overview
 
